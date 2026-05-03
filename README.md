@@ -18,3 +18,7 @@ This repository contains my Week 0 assignments for the DevOps Micro Internship p
 
 ## 🚀 Author
 David Ocho Audu
+
+## 🖥️ VS Code Setup
+
+![VS Code Setup](vs2.jpg)
